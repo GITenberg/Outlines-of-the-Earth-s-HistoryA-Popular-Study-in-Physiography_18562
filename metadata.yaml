@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8112
     wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Shaler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18562#Outlines-of-the-Earth-s-HistoryA-Popular-Study-in-Physiography
 gutenberg_issued: '2006-06-12'
 gutenberg_type: Text
 identifiers:
